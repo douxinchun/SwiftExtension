@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftExtension.svg?style=flat)](https://cocoapods.org/pods/SwiftExtension)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftExtension.svg?style=flat)](https://cocoapods.org/pods/SwiftExtension)
 
+This is a collection of useful extensions for Swift Standard Library. It was motivated by having to google or search StackOverflow for some common swift extensions.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
